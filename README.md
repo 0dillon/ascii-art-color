@@ -177,7 +177,7 @@ Open-source project intended for **learning and experimentation with Go**.
 ---
 
 # Author
->DIllon Ofili
+>Dillon Ofili
 
 Built using **Go** to practice:
 
